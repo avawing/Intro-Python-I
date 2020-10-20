@@ -20,7 +20,7 @@ x.pop(x.index(8))
 
 # Change x so that it is [1, 2, 3, 4, 9, 99, 10]
 # YOUR CODE HERE
-x.insert(-2, 99)
+x.insert(-1, 99)
 
 # Print the length of list x
 # YOUR CODE HERE
